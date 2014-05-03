@@ -1,0 +1,31 @@
+#header-inner,
+#content-inner,
+#footer-inner {
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+/* header styles */
+#header-wrapper nav{
+    background: #ffffff;
+}
+#header-wrapper #main-nav {
+}
+/* content styles */
+#content-wrapper{
+    margin: 55px 0 0 0;
+}
+#main {
+    min-height: 300px;
+}
+#secondary {
+    min-height: 300px;
+}
+.testimonial {
+    text-align: justify;
+}
+#footer-wrapper {
+    min-height: 300px;
+    background: #111111;
+}
